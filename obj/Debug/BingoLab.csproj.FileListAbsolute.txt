@@ -1,0 +1,10 @@
+c:\users\mrah\source\repos\BingoLab\BingoLab\obj\Debug\BingoLab.csprojAssemblyReference.cache
+c:\users\mrah\source\repos\BingoLab\BingoLab\obj\Debug\BingoLab.Properties.Resources.resources
+c:\users\mrah\source\repos\BingoLab\BingoLab\obj\Debug\BingoLab.csproj.GenerateResource.cache
+c:\users\mrah\source\repos\BingoLab\BingoLab\obj\Debug\BingoLab.csproj.CoreCompileInputs.cache
+c:\users\mrah\source\repos\BingoLab\BingoLab\bin\Debug\BingoLab.exe.config
+c:\users\mrah\source\repos\BingoLab\BingoLab\bin\Debug\BingoLab.exe
+c:\users\mrah\source\repos\BingoLab\BingoLab\bin\Debug\BingoLab.pdb
+c:\users\mrah\source\repos\BingoLab\BingoLab\obj\Debug\BingoLab.exe
+c:\users\mrah\source\repos\BingoLab\BingoLab\obj\Debug\BingoLab.pdb
+C:\Users\Mrah\source\repos\BingoLab\BingoLab\obj\Debug\BingoLab.frmBingo.resources
