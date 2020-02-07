@@ -356,7 +356,7 @@ namespace BingoLab
 
                 }
             }
-            else if (array.Length > 1) //Column win? 
+            else if (array.Length > 1) //Column win
             {
 
                 int j = array[0];
